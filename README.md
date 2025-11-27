@@ -1,4 +1,6 @@
 🧘 Meditation & Mindfulness Platform
+
+
 A beautiful Java-based meditation application with GUI that helps users practice mindfulness through guided sessions and breathing exercises. Features database connectivity, real-time progress tracking, and a modern user interface.
 
 
